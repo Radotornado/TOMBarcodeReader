@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\rado\.android\build-cache\f15f3535cc3f0ae9bf14651595fd8478b88a3eaf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="C:\Users\rado\Desktop\TOMProject\app\build\intermediates\pre-dexed\debug\classes_d444f9f84e71c55596207f60c9e6421fcbb35ce8.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rado\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="C:\Users\rado\Desktop\TOMProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.0.0-alpha1_97a87168364c031bfb42f9d4ac51d5b4c294347f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rado\.android\build-cache\242512a0bc641a931750f104b2ee0ca8abdb4537\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="C:\Users\rado\Desktop\TOMProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5ff137f9c9c10dce799c02816f95615784f8ea4d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rado\Desktop\TOMProject\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\rado\Desktop\TOMProject\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_095f7932de97adbae7c9d544fd171dbb027f2e73\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rado\.android\build-cache\ddf364b4e56b000e5bcf598fded60aba238616b4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="C:\Users\rado\Desktop\TOMProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_db0011db257573050cc95153553092057540e61b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rado\.android\build-cache\2ee710c0cdfc0dad14bb9f91d8b9bfe4d93ff970\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="C:\Users\rado\Desktop\TOMProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8cd28322f431a89b6586d8f579fa37d5ab410d7f\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rado\.android\build-cache\2ee710c0cdfc0dad14bb9f91d8b9bfe4d93ff970\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="C:\Users\rado\Desktop\TOMProject\app\build\intermediates\pre-dexed\debug\classes_8cd28322f431a89b6586d8f579fa37d5ab410d7f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rado\.gradle\caches\modules-2\files-2.1\org.jsoup\jsoup\1.10.3\b842f960942503cf1abbcc8c173a7f2c19d43726\jsoup-1.10.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b842f960942503cf1abbcc8c173a7f2c19d43726">
+        <dex dex="C:\Users\rado\Desktop\TOMRabotiZaSega - Copy\app\build\intermediates\pre-dexed\debug\jsoup-1.10.3_074351d17ac3ae456712513e5eaca03688751885.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rado\.android\build-cache\cdbf32b90cdd3b89e3b38b60bbce66d507b789ec\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="C:\Users\rado\Desktop\TOMProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7e75a8d973766c6e57991bcb8ec0f3001e5b4ab5\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rado\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="C:\Users\rado\Desktop\TOMProject\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_97a87168364c031bfb42f9d4ac51d5b4c294347f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rado\.android\build-cache\cdbf32b90cdd3b89e3b38b60bbce66d507b789ec\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="C:\Users\rado\Desktop\TOMProject\app\build\intermediates\pre-dexed\debug\classes_7e75a8d973766c6e57991bcb8ec0f3001e5b4ab5.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rado\.android\build-cache\f15f3535cc3f0ae9bf14651595fd8478b88a3eaf\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="C:\Users\rado\Desktop\TOMProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d444f9f84e71c55596207f60c9e6421fcbb35ce8\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rado\.android\build-cache\8c549abe6fb11178cc2dc21719fc2fc775876724\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="C:\Users\rado\Desktop\TOMProject\app\build\intermediates\pre-dexed\debug\classes_4dc16197c7dbc3d75b3406ead83eb30c24088941.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rado\.android\build-cache\8c549abe6fb11178cc2dc21719fc2fc775876724\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="C:\Users\rado\Desktop\TOMProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4dc16197c7dbc3d75b3406ead83eb30c24088941\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rado\.android\build-cache\610bb9def38bf567b794abb8e6c0956331019c72\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="C:\Users\rado\Desktop\TOMProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_763c02fb44dd34b14b93c2907d4f7801865f5451\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rado\.android\build-cache\d1feafc409474289d0552fb957243d648853c78b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\rado\Desktop\TOMProject\app\build\intermediates\pre-dexed\debug\classes_16479d8ada2526d6dca6fd7b41c405c97e50e6b3.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rado\.android\build-cache\d1feafc409474289d0552fb957243d648853c78b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\rado\Desktop\TOMProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_16479d8ada2526d6dca6fd7b41c405c97e50e6b3\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rado\.android\build-cache\610bb9def38bf567b794abb8e6c0956331019c72\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="C:\Users\rado\Desktop\TOMProject\app\build\intermediates\pre-dexed\debug\classes_763c02fb44dd34b14b93c2907d4f7801865f5451.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rado\Desktop\TOMProject\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c70553ab1b9c4381ea49124e2e134ad4d87178d4">
+        <dex dex="C:\Users\rado\Desktop\TOMProject\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_3cd3ff5f3769819de2014313b2f8bf81addb10b5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rado\.android\build-cache\9a5f1817ae20758d8678eba2d2cf6f9f8259c0e9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="C:\Users\rado\Desktop\TOMProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d4858f8e806f9394b1392df816fe07520ef5515c\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rado\.android\build-cache\ddf364b4e56b000e5bcf598fded60aba238616b4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="C:\Users\rado\Desktop\TOMProject\app\build\intermediates\pre-dexed\debug\classes_db0011db257573050cc95153553092057540e61b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rado\.android\build-cache\242512a0bc641a931750f104b2ee0ca8abdb4537\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="C:\Users\rado\Desktop\TOMProject\app\build\intermediates\pre-dexed\debug\classes_5ff137f9c9c10dce799c02816f95615784f8ea4d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rado\.android\build-cache\9a5f1817ae20758d8678eba2d2cf6f9f8259c0e9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="C:\Users\rado\Desktop\TOMProject\app\build\intermediates\pre-dexed\debug\classes_d4858f8e806f9394b1392df816fe07520ef5515c.jar" />
+    </item>
+
+</items>
